@@ -13,6 +13,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 //archivooo
+//dadad
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
